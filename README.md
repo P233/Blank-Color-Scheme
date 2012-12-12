@@ -2,13 +2,15 @@
 
 **Blank Color Scheme is a framework for easily and rapidly creating a new color scheme for Textmate / Sublime Text 2, or modifying an existing color scheme. It currently only supports a few languages. If you want to contribute on this project, you are more than welcome. Please feel free to fork this repo and make it better :)**
 
-***Note:** Need to use Textmate to edit color schemes.*
+*Note: Need to use Textmate to edit color schemes.*
 
 ## Create a Custom Color Scheme
 
 Move the Blank.tmTheme file into `~/Library/Application Support/TextMate/Themes/`. Open Textmate and go to Preferences > Fonts & Colors panel, select `Blank Color Scheme` from the theme list. Then you can start to edit. When you have finished editing, close the Preferences panel to save the file. 
 
 If you want to distribute your color scheme, don't forget to change the author's name and uuid.
+
+![screen shot](http://p233.github.com/Blank-Color-Scheme/images/screen_shot.png)
 
 ## Scope Selector Reference
 
